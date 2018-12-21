@@ -1,5 +1,10 @@
-#pragma once
+/*
+*
+* by UnitedTimur (c) 2018
+*
+*/
 
+#pragma once
 #include <iostream>
 
 using namespace std;
