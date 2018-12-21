@@ -1,3 +1,9 @@
+/*
+*
+* by UnitedTimur (c) 2018
+*
+*/
+
 #include "List.h"
 
 list::list() : head(new node), tail(new node)
