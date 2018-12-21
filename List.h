@@ -1,5 +1,10 @@
-#pragma once
+/*
+*
+* by UnitedTimur (c) 2018
+*
+*/
 
+#pragma once
 #include "Node.h"
 #include <cstdarg>
 #include <fstream>
