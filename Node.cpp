@@ -1,3 +1,9 @@
+/*
+*
+* by UnitedTimur (c) 2018
+*
+*/
+
 #include "Node.h"
 
 node::node(int Val, node * Prev, node * Next, node * ptrForThis, bool toTheEnd) : value(Val), previous(Prev), next(Next)
